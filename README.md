@@ -9,23 +9,23 @@
     
    * Rodar o servidor
    
-    - yarn start
+         - yarn start
     
 # Rotas:
 
  GET /api/produtos
-  - Lista todos os produtos
+    - Lista todos os produtos
   
   GET /api/produtos/:id
     - Lista um produto com base no id
     
   POST /api/produtos
     - Cria produto
-    - Corpo da requisição
-      - nome_produto: string
-      - descricao_produto: string
-      - quantidade_produto: number
-      - preco_produro: number
+       ### - Corpo da requisição
+              - nome_produto: string
+              - descricao_produto: string
+              - quantidade_produto: number
+              - preco_produro: number
       
   PUT /api/usuarios
     - Atualiza um produto
