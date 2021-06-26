@@ -3,8 +3,9 @@
 # Como rodar o projeto:
 
   * Setup inicial
-     - git clone https://github.com/JennifferRufino/nodejs-mongodb-typescript
-     - yarn
+     
+        - git clone https://github.com/JennifferRufino/nodejs-mongodb-typescript
+        - yarn
     
    * Rodar o servidor
    
