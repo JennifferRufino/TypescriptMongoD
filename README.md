@@ -34,7 +34,7 @@
   
     - Atualiza um produto
     - Corpo da requisição
-       - nome_produto: string
+      - nome_produto: string
       - descricao_produto: string
       - quantidade_produto: number
       - preco_produro: number
