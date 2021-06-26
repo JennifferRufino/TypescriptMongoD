@@ -24,7 +24,7 @@
   POST /api/produtos
   
     - Cria produto
-       ### - Corpo da requisição
+       - Corpo da requisição
               - nome_produto: string
               - descricao_produto: string
               - quantidade_produto: number
