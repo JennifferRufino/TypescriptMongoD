@@ -6,7 +6,7 @@
     - git clone https://github.com/JennifferRufino/nodejs-mongodb-typescript
     - yarn
     
-   * Rodar o servidor:
+   * Rodar o servidor
     - yarn start
     
 # Rotas:
